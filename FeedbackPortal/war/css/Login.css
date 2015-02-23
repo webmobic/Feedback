@@ -1,0 +1,31 @@
+body {
+	background: #f1f1f1;
+	min-width: 0;
+	color: #444;
+	font-family: "Open Sans",sans-serif;
+	font-size: 13px;
+	line-height: 1.4em;
+}
+
+#loginbox{
+-webkit-box-shadow: 0 2px 3px rgba(0,0,0,.13);
+box-shadow: 0 2px 3px rgba(0,0,0,.13);
+border-radius: 0px !important;
+}
+
+#login_penal{
+border-radius: 0px !important;
+border: 0px;
+}
+
+#login_body{
+padding: 30px !important;
+}
+
+.form-group input-group{
+height:40px !important;
+box-shadow: none !important;
+}
+.form-control{
+height:40px !important;
+}
